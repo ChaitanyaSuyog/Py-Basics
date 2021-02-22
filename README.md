@@ -1,2 +1,2 @@
 # Py-Basics
-First repository- this repository contains all the basic concepts of Python, which I learned from @mikedane, and experimented with.
+First repository- contains all the basic concepts of Python, which I learned from Mike Dane (https://www.mikedane.com/), and experimented with.
